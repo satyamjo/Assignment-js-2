@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(90, 122, 17);
+}
+
+h1 {
+    font-size: 60px;
+    color: rgb(177, 135, 105);
+    font-weight: 800;
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: 800;
+    color: cornflowerblue;
+}
+
+p {
+    font-size: 40px;
+    color: rgb(24, 65, 66);
+    font-weight: 800;
+}
